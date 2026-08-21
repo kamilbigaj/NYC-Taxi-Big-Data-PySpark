@@ -1,0 +1,17 @@
+# Środowisko wirtualne
+venv/
+__pycache__/
+
+# Dane wejściowe (Big Data)
+data/
+lookup/
+*.parquet
+*.csv
+
+# Dane wyjściowe
+wyjsciowe_dane_2025_parquet/
+raport_biznesowy/
+
+# Śmieci Jupytera i systemowe
+.ipynb_checkpoints/
+.DS_Store
